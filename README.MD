@@ -31,6 +31,13 @@
 
 <p>Welcome to my page! </br> I'm <b>Jihane JAOUHAR</b>, <b>Data Analyst</b> based in Morocco 🇲🇦.</p>
 
+<h3>About me</h3>
+<p>
+✨ Creating insights from messy data since forever <br>
+📚 Proficient in Python, SQL, Excel, Tableau & Power BI <br>
+🎯 Goal: Deliver actionable, data-driven insights <br>
+🎲 Fun fact: I love turning complex datasets into clear dashboards
+</p>
 <h3>Things I analyze & code with</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-C1A192?style=flat-square&logo=python&logoColor=white" />
@@ -41,13 +48,7 @@
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-C8B8A6?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-<h3>About me</h3>
-<p>
-✨ Creating insights from messy data since forever <br>
-📚 Proficient in Python, SQL, Excel, Tableau & Power BI <br>
-🎯 Goal: Deliver actionable, data-driven insights <br>
-🎲 Fun fact: I love turning complex datasets into clear dashboards
-</p>
+
 
 <h3>Where to find me</h3>
 <p>
