@@ -11,6 +11,7 @@
   <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=black" />
   <img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
   <img alt="Google Sheets" src="https://img.shields.io/badge/-Google%20Sheets-0F9D58?style=flat-square&logo=googlesheets&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
 <h3>About me</h3>
