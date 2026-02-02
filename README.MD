@@ -4,14 +4,12 @@
 
 <h3>Things I analyze & code with</h3>
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-
-  <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
- 
-  <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=black" />
-  <img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-  <img alt="Google Sheets" src="https://img.shields.io/badge/-Google%20Sheets-0F9D58?style=flat-square&logo=googlesheets&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-C1A192?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-D4B996?style=flat-square&logo=tableau&logoColor=white" />
+  <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-CABFA6?style=flat-square&logo=microsoft-power-bi&logoColor=black" />
+  <img alt="Excel" src="https://img.shields.io/badge/-Excel-B0AFAF?style=flat-square&logo=microsoft-excel&logoColor=white" />
+  <img alt="Google Sheets" src="https://img.shields.io/badge/-Google%20Sheets-D9CFC2?style=flat-square&logo=googlesheets&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-C8B8A6?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
 <h3>About me</h3>
@@ -24,8 +22,8 @@
 
 <h3>Where to find me</h3>
 <p>
-  <a href="https://github.com/Jaouharjihan-oss" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/jihan-jaouhar" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jaouharjihan@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://tonportfolio.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://github.com/Jaouharjihan-oss" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-C1A192.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jihan-jaouhar" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-D4B996.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jaouharjihan@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-CABFA6.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://tonportfolio.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-B0AFAF.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
