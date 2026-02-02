@@ -1,11 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey 👋 What's up?</h1>
 
 <p>Welcome to my page! </br> I'm <b>Jihane JAOUHAR</b>, <b>Data Analyst</b> based in Morocco 🇲🇦.</p>
-###
 
-<h3 align="left">Data Analyst | Data Storyteller | Problem Solver</h3>
-
-###
 
 <h3>Things I analyze & code with</h3>
 <p>
