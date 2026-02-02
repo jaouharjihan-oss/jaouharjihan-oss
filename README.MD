@@ -8,15 +8,15 @@
 📚 Proficient in Python, SQL, Excel, Tableau & Power BI <br>
 🎯 Goal: Deliver actionable, data-driven insights <br>
 🎲 Fun fact: I love turning complex datasets into clear dashboards
-</p>
+
 <h3>Things I analyze & code with</h3>
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-C1A192?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-D4B996?style=flat-square&logo=tableau&logoColor=white" />
-  <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-CABFA6?style=flat-square&logo=microsoft-power-bi&logoColor=black" />
-  <img alt="Excel" src="https://img.shields.io/badge/-Excel-B0AFAF?style=flat-square&logo=microsoft-excel&logoColor=white" />
-  <img alt="Google Sheets" src="https://img.shields.io/badge/-Google%20Sheets-D9CFC2?style=flat-square&logo=googlesheets&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-C8B8A6?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-D8C3A5?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-A28E79?style=flat-square&logo=tableau&logoColor=white" />
+  <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-C0C0C0?style=flat-square&logo=microsoft-power-bi&logoColor=black" />
+  <img alt="Excel" src="https://img.shields.io/badge/-Excel-7D7D7D?style=flat-square&logo=microsoft-excel&logoColor=white" />
+  <img alt="Google Sheets" src="https://img.shields.io/badge/-Google%20Sheets-F5F5F5?style=flat-square&logo=googlesheets&logoColor=green" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-D8C3A5?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
 
