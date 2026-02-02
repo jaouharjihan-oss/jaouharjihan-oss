@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey 👋 What's up?</h1>
 
-<p>Welcome to my page! </br> I'm <b>Jihane JAOUHAR</b>, <b>Data Analyst</b> based in <img src="https://cdn-icons-png.flaticon.com/512/197/197625.png" width="13"/> Morocco 🇲🇦.</p>
+<p>Welcome to my page! </br> I'm <b>Jihane JAOUHAR</b>, <b>Data Analyst</b> based in Morocco 🇲🇦.</p>
 
 <h3>Things I analyze & code with</h3>
 <p>
