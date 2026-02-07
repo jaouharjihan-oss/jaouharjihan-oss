@@ -4,17 +4,14 @@
 
 <h3>About me</h3>
 <p>
-💡 Turning data into stories that matter <br>
-🛠 Tools: Python, SQL, Excel, Tableau, Power BI <br>
-📈 Obsessed with clarity, insights, and business impact <br>
-🎨 Dashboards are my favorite form of storytelling
+💡 Data Analyst specialized in transforming data into clear insights that support business decisions.
+I focus on delivering structured analyses, relevant KPIs, and intuitive visualizations with a strong emphasis on clarity and impact 📈.
 </p>
-
 
 <h3>Things I analyze & code with</h3>
 <p>
-My analytical toolkit allows me to move seamlessly from raw data to meaningful insights.
-I use code to automate and explore, spreadsheets to structure, and visualization tools to tell clear and impactful data stories.
+🛠 I work with a combination of programming, data querying, spreadsheet analysis, and visualization tools to cover the entire analytical process,
+from data preparation to dashboarding and insight communication 📊.
 </p>
 
 <p>
