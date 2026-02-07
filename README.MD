@@ -2,28 +2,47 @@
 
 <p>Welcome to my page! </br> I'm <b>Jihane JAOUHAR</b>, <b>Data Analyst</b> based in Morocco 🇲🇦.</p>
 
-<h3>Things I analyze & code with</h3>
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-C1A192?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-D4B996?style=flat-square&logo=tableau&logoColor=white" />
-  <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-CABFA6?style=flat-square&logo=microsoft-power-bi&logoColor=black" />
-  <img alt="Excel" src="https://img.shields.io/badge/-Excel-B0AFAF?style=flat-square&logo=microsoft-excel&logoColor=white" />
-  <img alt="Google Sheets" src="https://img.shields.io/badge/-Google%20Sheets-D9CFC2?style=flat-square&logo=googlesheets&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-C8B8A6?style=flat-square&logo=mysql&logoColor=white" />
-</p>
-
 <h3>About me</h3>
 <p>
-✨ Creating insights from messy data since forever <br>
-📚 Proficient in Python, SQL, Excel, Tableau & Power BI <br>
-🎯 Goal: Deliver actionable, data-driven insights <br>
-🎲 Fun fact: I love turning complex datasets into clear dashboards
+💡 Turning data into stories that matter <br>
+🛠 Tools: Python, SQL, Excel, Tableau, Power BI <br>
+📈 Obsessed with clarity, insights, and business impact <br>
+🎨 Dashboards are my favorite form of storytelling
 </p>
+
+
+<h3>Things I analyze & code with</h3>
+<p>
+My analytical toolkit allows me to move seamlessly from raw data to meaningful insights.
+I use code to automate and explore, spreadsheets to structure, and visualization tools to tell clear and impactful data stories.
+</p>
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-6D597A?style=flat-square&logo=python&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-355070?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-B56576?style=flat-square&logo=microsoft-excel&logoColor=white" />
+  <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-8D99AE?style=flat-square&logo=googlesheets&logoColor=white" />
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-355070?style=flat-square&logo=tableau&logoColor=white" />
+  <img alt="Power%20BI" src="https://img.shields.io/badge/Power%20BI-E6C9A8?style=flat-square&logo=microsoft-power-bi&logoColor=black" />
+</p>
+
+
+
+
 
 <h3>Where to find me</h3>
 <p>
-  <a href="https://github.com/Jaouharjihan-oss" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-C1A192.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/jihan-jaouhar" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-D4B996.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jaouharjihan@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-CABFA6.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://tonportfolio.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-B0AFAF.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://github.com/Jaouharjihan-oss" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-B5838D?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jihan-jaouhar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-E5989B?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:jaouharjihan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-F2CC8F?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://tonportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-9C9A9A?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
+
