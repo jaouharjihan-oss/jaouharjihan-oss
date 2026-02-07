@@ -29,7 +29,7 @@ from data preparation to dashboarding and insight communication 📊.
 
 <h3>Where to find me</h3>
 <p>
-  <a href="https://github.com/Jaouharjihan-oss" target="_blank">
+  <a href="https://github.com/jaouharjihan-oss" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-B5838D?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/jihan-jaouhar-b33a0a60/" target="_blank">
