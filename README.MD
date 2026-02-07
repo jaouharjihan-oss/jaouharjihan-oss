@@ -35,7 +35,7 @@ I use code to automate and explore, spreadsheets to structure, and visualization
   <a href="https://github.com/Jaouharjihan-oss" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-B5838D?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/jihan-jaouhar" target="_blank">
+  <a href="https://www.linkedin.com/in/jihan-jaouhar-b33a0a60/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-E5989B?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:jaouharjihan@gmail.com">
