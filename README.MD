@@ -1,9 +1,7 @@
-# Hey 👋 What's up?
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey 👋 What's up?</h1>
 
-## Welcome to my page! 
-I'm **Jihane JAOUHAR**, a **Data Analyst** based in Morocco 🇲🇦.
+<p>Welcome to my page! </br> I'm <b>Jihane JAOUHAR</b>, <b>Data Analyst</b> based in Morocco 🇲🇦.</p>
 
----
 
 ### 💡 About me
 
@@ -12,35 +10,41 @@ I am a **Data Analyst** specialized in transforming raw data into clear, actiona
 * **Structured Analysis:** Turning complex datasets into organized information.
 * **KPI Development:** Defining and tracking the metrics that truly matter.
 * **Intuitive Visualization:** Creating dashboards that tell a story with clarity and impact 📈.
+</p>
 
----
+<h3>Things I analyze & code with</h3>
+<p>
+🛠 I work with a combination of programming, data querying, spreadsheet analysis, and visualization tools to cover the entire analytical process,
+from data preparation to dashboarding and insight communication 📊.
+</p>
 
-### 🛠 Things I analyze & code with
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-6D597A?style=flat-square&logo=python&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-355070?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-B56576?style=flat-square&logo=microsoft-excel&logoColor=white" />
+  <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-8D99AE?style=flat-square&logo=googlesheets&logoColor=white" />
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-355070?style=flat-square&logo=tableau&logoColor=white" />
+  <img alt="Power%20BI" src="https://img.shields.io/badge/Power%20BI-E6C9A8?style=flat-square&logo=microsoft-power-bi&logoColor=black" />
+</p>
 
-I leverage a modern stack to cover the entire analytical lifecycle, from data cleaning to final communication.
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Data Viz** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) |
-| **Analysis** | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
-| **Environment** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
----
 
-### 📊 My GitHub Stats
-![Jihane's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaouharjihan-oss&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaouharjihan-oss&layout=compact&theme=radical)
 
----
+<h3>Where to find me</h3>
+<p>
+  <a href="https://github.com/jaouharjihan-oss" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-B5838D?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jihan-jaouhar-b33a0a60/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-E5989B?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:jaouharjihan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-F2CC8F?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://tonportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-9C9A9A?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
-### 📫 Where to find me
 
-Let's connect and talk about data!
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jihan-jaouhar-b33a0a60/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaouharjihan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaouharjihan-oss)
-
----
-*“In God we trust, all others must bring data.” – W. Edwards Deming*
